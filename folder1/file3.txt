@@ -1,2 +1,2 @@
 file3
-edit from local
+edit from both sides
